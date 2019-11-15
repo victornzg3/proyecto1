@@ -1,0 +1,33 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "trabajo practico arquitectura web 2019 ",
+  "main": "conectarmongo.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "jquery": "^3.4.1",
+    "jsdom": "^15.1.1",
+    "json": "^9.0.6",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index1version2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victornzg3/proyecto1.git"
+  },
+  "author": "victor hugo nuñez gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victornzg3/proyecto1/issues"
+  },
+  "homepage": "https://github.com/victornzg3/proyecto1#readme"
+}

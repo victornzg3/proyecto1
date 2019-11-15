@@ -16,5 +16,14 @@ line-height: 2em;
 .grafico .barra span {
 position: absolute; left: 1em;
 }
-
+.contenedor-form {
+    background: rgba(0,0,0,.7);
+    max-width: 500px;
+    width: 100%;
+    margin: 48px auto;
+    border-radius: 5px;
+    color: #5B1027;
+    position: relative;
+    /*padding: 40px;*/
+}
 
